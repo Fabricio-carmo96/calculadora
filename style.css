@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    border: 0;
+}
+
+input {
+    font-size: 2rem;
+    margin: 10px;
+}
+
+html {
+    background-color: bisque;
+}
+
+button {
+    margin-top: 10
+    px;
+    font-size: 2rem;
+}
+
+#exibicao{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10px;
+    font-size: 2rem;
+
+}
